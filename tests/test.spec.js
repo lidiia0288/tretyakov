@@ -3,7 +3,7 @@ import { App } from '../src/pages';
 
 const url = 'https://www.tretyakovgallery.ru/?lang=ru';
 let firstSearch = "Пушкин";
-let secondSearch = "Италия  ";
+let secondSearch = "Италия";
 
 
 test("Search", async ({ page }) => {
